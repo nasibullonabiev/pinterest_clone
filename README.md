@@ -1,16 +1,25 @@
-# pinterest_clone
+## 🤓 Author(s)
+**Nasibullo Nabiev** 
 
-This is Pinterest clone
 
-## Getting Started
+## ScreenShots
+### Home Page
+<img src="screens/all_page.png" height="500em" />
 
-This project is a starting point for a Flutter application.
+### Search page
+<img src="screens/search.png" height="500em" /> &nbsp;&nbsp;&nbsp;&nbsp; 
 
-A few resources to get you started if this is your first Flutter project:
+### Wallpaper page
+<img src="screens/wallpaper_page.png" height="500em" />&nbsp;&nbsp;&nbsp;&nbsp;
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Recipe page
+<img src="screens/recipes.png" height="500em" />&nbsp;&nbsp;&nbsp;&nbsp;
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Category page
+<img src="screens/category.png" height="500em" />&nbsp;&nbsp;&nbsp;&nbsp;
+
+### Detail page
+<img src="screens/detail.png" height="500em" />&nbsp;&nbsp;&nbsp;&nbsp;
+
+### Saved page
+<img src="screens/saved.png" height="500em" />&nbsp;&nbsp;&nbsp;&nbsp;
