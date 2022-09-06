@@ -7,7 +7,7 @@
 <img src="screens/all_page.png" height="500em" />
 
 ### Search page
-<img src="screens/search.png" height="500em" /> &nbsp;&nbsp;&nbsp;&nbsp; 
+<img src="screens/search.png" height="500em" />; 
 
 ### Wallpaper page
 <img src="screens/wallpaper_page.png" height="500em" />&nbsp;&nbsp;&nbsp;&nbsp;
